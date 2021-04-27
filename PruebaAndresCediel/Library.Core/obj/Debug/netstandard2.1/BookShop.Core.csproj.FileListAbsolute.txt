@@ -1,0 +1,9 @@
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\bin\Debug\netstandard2.1\BookShop.Core.deps.json
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\bin\Debug\netstandard2.1\BookShop.Core.dll
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\bin\Debug\netstandard2.1\BookShop.Core.pdb
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\obj\Debug\netstandard2.1\BookShop.Core.AssemblyInfoInputs.cache
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\obj\Debug\netstandard2.1\BookShop.Core.AssemblyInfo.cs
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\obj\Debug\netstandard2.1\BookShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\obj\Debug\netstandard2.1\BookShop.Core.dll
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\obj\Debug\netstandard2.1\BookShop.Core.pdb
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Core\obj\Debug\netstandard2.1\BookShop.Core.csprojAssemblyReference.cache

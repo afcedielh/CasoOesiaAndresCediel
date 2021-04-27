@@ -1,0 +1,12 @@
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\BookShop.Infraestructure.deps.json
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\BookShop.Infraestructure.dll
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\BookShop.Infraestructure.pdb
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\BookShop.Core.dll
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\BookShop.Core.pdb
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\BookShop.Infraestructure.csprojAssemblyReference.cache
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\BookShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\BookShop.Infraestructure.AssemblyInfo.cs
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\BookShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\BookShop.Infraestructure.csproj.CopyComplete
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\BookShop.Infraestructure.dll
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\BookShop.Infraestructure.pdb

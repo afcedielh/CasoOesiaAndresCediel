@@ -1,0 +1,12 @@
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\Library.Infraestructure.deps.json
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\Library.Infraestructure.dll
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\Library.Infraestructure.pdb
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\Library.Core.dll
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\bin\Debug\netstandard2.1\Library.Core.pdb
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\Library.Infraestructure.csprojAssemblyReference.cache
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\Library.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\Library.Infraestructure.AssemblyInfo.cs
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\Library.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\Library.Infraestructure.csproj.CopyComplete
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\Library.Infraestructure.dll
+C:\Users\afced\source\repos\PruebaAndresCediel\Library.Infraestructure\obj\Debug\netstandard2.1\Library.Infraestructure.pdb

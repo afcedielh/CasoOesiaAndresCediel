@@ -1,0 +1,47 @@
+﻿<Page x:Class="BookShop.Writers"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BookShop"
+      mc:Ignorable="d" 
+      d:DesignHeight="460" d:DesignWidth="1000"
+      Title="Writers">
+    <Grid Background="{DynamicResource SecondaryHueMidForegroundBrush}">
+        <DataGrid x:Name="dgWriters" HorizontalAlignment="Left" Height="363" Margin="13,87,0,0" VerticalAlignment="Top" Width="977" DataContext="{Binding Source=Writeres}" IsReadOnly="True" SelectionChanged="dgWriters_SelectionChanged" Background="{DynamicResource MaterialDesignBodyLight}" Foreground="{DynamicResource MaterialDesignBackground}" BorderBrush="{DynamicResource MaterialDesignBackground}" AutoGenerateColumns="False" HeadersVisibility="Column">
+            <DataGrid.Resources>
+                <Style BasedOn="{StaticResource {x:Type DataGridColumnHeader}}" TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FF354C5D" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="162"/>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Name}" Width="162"/>
+                <DataGridTextColumn Header="Sexo" Binding="{Binding GenderStr}" Width="162"/>
+                <DataGridTextColumn Header="Nacionalidad" Binding="{Binding Nacionality}" Width="162"/>
+                <DataGridTextColumn Header="Libros" Binding="{Binding Books}" Width="162"/>
+                <DataGridTemplateColumn  Width="160">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Delete_Click">Eliminar</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="777,38,0,0" VerticalAlignment="Top" Click="btnGuardar_Click"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="9,33,0,0" VerticalAlignment="Top" Foreground="{DynamicResource MaterialDesignBackground}"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="81,35,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+        <Label x:Name="lblGender" Content="Sexo" HorizontalAlignment="Left" Margin="228,33,0,0" VerticalAlignment="Top" Foreground="{DynamicResource MaterialDesignBackground}"/>
+        <Label Content="Pais" HorizontalAlignment="Left" Margin="389,33,0,0" VerticalAlignment="Top" Foreground="{DynamicResource MaterialDesignBackground}"/>
+        <Label Content="Ciudad" HorizontalAlignment="Left" Margin="565,33,0,0" VerticalAlignment="Top" Foreground="{DynamicResource MaterialDesignBackground}"/>
+        <ComboBox HorizontalAlignment="Left" Margin="269,35,0,0" VerticalAlignment="Top" Width="120" Name="Gender" BorderBrush="Black">
+            <ComboBoxItem IsSelected="True" Content="Masculino"/>
+            <ComboBoxItem Content="Femenino"/>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Margin="424,35,0,0" VerticalAlignment="Top" Width="120"  Name="Country" SelectionChanged="Country_SelectionChanged" BorderBrush="Black"/>
+        <ComboBox HorizontalAlignment="Left" Margin="626,35,0,0" VerticalAlignment="Top" Width="120" Name="City" BorderBrush="Black"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="891,38,0,0" VerticalAlignment="Top" Click="btnClear_click"/>
+
+    </Grid>
+</Page>
